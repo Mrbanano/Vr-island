@@ -3,8 +3,25 @@
 <head>
 	<title>Vr Isla</title>
 	<link rel="shortcut icon" type="image/png" href="img/isla.png"/>
-	<script src = "https://aframe.io/releases/1.0.3/aframe.min.js" />
+	<script src = "https://aframe.io/releases/1.0.3/aframe.min.js"></script>
 </head>
 <body>
+	<a-scene inspector="https://cdn.jsdelivr.net/gh/aframevr/aframe-inspector@master/dist/aframe-inspector.min.js">
+		<a-assets>
+			<a-asset-item id="mansion" src="3d/isla/scene.gltf"></a-asset-item>
+			<img id="cielo" src="img/cielo.jpg">
+		</a-assets>
+
+		<a-entity gltf-model="#mansion" 
+		 position="0.307 -3.433 0.043"></a-entity>
+		<a-entity daydream-controls></a-entity>
+
+		<a-entity visible="" data-aframe-inspector-original-camera="" look-controls="" rotation="-40.30327 -417.91541576841984 0" wasd-controls="" position="-0.24312024010380667 0.25 -0.09235790599956701" camera="" aframe-injected=""></a-entity>
+
+		 <a-sky src="#cielo" scale ="1 1 1" repeat="5 5 1"></a-sky>
+
+    </a-scene>
 </body>
 </html>
+
+
