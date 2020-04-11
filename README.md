@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/Mrbanano"><img src="https://i.postimg.cc/MHmQMr0w/undraw-virtual-reality-y5ig.png" height="300"></a>
+  <a href="https://github.com/Mrbanano"><img src="https://i.postimg.cc/MHmQMr0w/undraw-virtual-reality-y5ig.png" width="100%"></a>
 </p>
 </p>
 <p align="center">
@@ -19,15 +19,11 @@
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
 
 <br>
 <br>
 <br>
-<img src="https://i.postimg.cc/nLPDbD24/mobile.jpg" align="right" alt="mobile-preview"  height="250">
+<img src="https://i.postimg.cc/nLPDbD24/mobile.jpg" align="right" alt="mobile-preview"  height="40%">
 
 
 **compatible with mobile**
