@@ -14,16 +14,13 @@
 
 <img src="https://i.postimg.cc/28XtsGJc/Sin-t-tulo-1.jpg" align="left" alt="mobile-preview" width="100%">
 
-<br>
-<br>
-<br>
-<br>
+<p align="left">
+<SUB>[Imagen 1.0]</SUB>
 <br>
 
-<br>
-<br>
-<br>
-<img src="https://i.postimg.cc/nLPDbD24/mobile.jpg" align="right" alt="mobile-preview"  height="40%">
+</p>
+
+<img src="https://i.postimg.cc/nLPDbD24/mobile.jpg" align="right" alt="mobile-preview"  width="30%">
 
 
 **compatible with mobile**
@@ -31,7 +28,7 @@
 This website has a built-in vr function for mobiles that is active by touching the vr indicator on some android devices, it will be necessary 
 to install google cardboard plugins on iphone, it is not necessary to install anything extra.
 
-To improve the experience and immersion, the use of any virtual reality glasses is recommended,this website was made possible by the open source web framework A-Frame.
+To improve the experience and immersion, the use of any virtual reality glasses is recommended,this website was made possible by the open source web framework [A-frame](https://aframe.io/).
 
 
 
