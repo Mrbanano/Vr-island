@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/Mrbanano"><img src="https://i.postimg.cc/MHmQMr0w/undraw-virtual-reality-y5ig.png" width="100%"></a>
+  <a href="https://github.com/Mrbanano"><img src="https://i.postimg.cc/MHmQMr0w/undraw-virtual-reality-y5ig.png" width="50%"></a>
 </p>
 </p>
 <p align="center">
